@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/SpecGhost/budgetbeat/static/css/main.241951ba.css",
+    "main.js": "/SpecGhost/budgetbeat/static/js/main.d45f2cef.js",
+    "index.html": "/SpecGhost/budgetbeat/index.html",
+    "main.241951ba.css.map": "/SpecGhost/budgetbeat/static/css/main.241951ba.css.map",
+    "main.d45f2cef.js.map": "/SpecGhost/budgetbeat/static/js/main.d45f2cef.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.241951ba.css",
+    "static/js/main.d45f2cef.js"
+  ]
+}
